@@ -1,0 +1,2 @@
+# LinuxKomutlari
+Linux Komut Sat
