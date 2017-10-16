@@ -1,2 +1,2 @@
 # LinuxKomutlari
-Linux Komut Sat
+Linux Komut Satiri - 2016
